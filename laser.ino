@@ -16,7 +16,7 @@ void setup(){
   myServos[0].attach(3);
   myServos[1].attach(4);
   myServos[2].attach(5);
-  myServos[4].attach(6);
+  myServos[3].attach(6);
 
   myServos[0].write(0);
   myServos[1].write(0);
